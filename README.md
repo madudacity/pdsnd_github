@@ -9,6 +9,7 @@ This project is to showcase how source code can be kept up to date by using Git 
 This project allows anyone new to Git or GitHub to learn Git commands such as clone, push, status, commit etc.
 The document containing all the commands will be shared here.
 
+We are not making any changes to the python file.
 ### Files used
 Files used are:
 
